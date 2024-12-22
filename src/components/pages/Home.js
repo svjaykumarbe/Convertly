@@ -21,7 +21,7 @@ function Home() {
     >
       <Container sx={{ textAlign: 'center', padding: 4 }}>
         <Typography variant="h2" component="h1" sx={{ fontWeight: 700, marginBottom: 2 }}>
-          Welcome to ExchangeRate Pro
+          Welcome to Exchange Hub
         </Typography>
         <Typography variant="h5" sx={{ marginBottom: 3 }}>
           Track global exchange rates in real-time. Make smarter decisions, faster.
